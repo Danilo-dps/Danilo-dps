@@ -6,6 +6,8 @@
 
 ![Danilo Pereira's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danilo-dps&show_icons=true&theme=cobalt)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo-dps)](https://github.com/danilo-dps/github-readme-stats)
+
 ## Tecnologias do meu dia a dia
 
 <div style="display: inline_block"><br/>
