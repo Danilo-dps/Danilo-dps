@@ -4,8 +4,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](danilodpsnilo@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/danilotrees/)
 
-![Danilo Pereira's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danilo-dps&show_icons=true&theme=cobalt)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo-dps)](https://github.com/danilo-dps/github-readme-stats)
 
 ## Tecnologias do meu dia a dia
