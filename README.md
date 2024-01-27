@@ -2,7 +2,6 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-pereira-862510259/) [![Microsoft Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](danilodpsnilo@outlook.com)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](danilodpsnilo@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/danilotrees/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo-dps)](https://github.com/danilo-dps/github-readme-stats)
 
