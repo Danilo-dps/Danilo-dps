@@ -2,10 +2,14 @@
 
 ## Olá! Eu sou o Danilo Pereira, aspirante a desenvolvedor de software.
 
-## Sobre mim
-
-- Sou estudante da área de tecnologia, com conhecimentos básicos em manutenção e configuração de computadores, sabendo configurar linux e windows, atualmente usando linux para estudar. 
+### Sobre mim
+- Sou estudante da área de tecnologia, com conhecimentos básicos em manutenção e configuração de computadores, sabendo configurar linux e windows, atualmente usando linux para estudar.
 - Estou estudando para entender como usar de forma eficiente ferramentas de desenvolvimento de software.
+
+### Projetos em Destaque
+- [Jogo de Xadrez](https://github.com/Danilo-dps/Sistema_Xadrez_java)
+- [Sistema de Gerenciamento de Post (API)](https://github.com/Danilo-dps/workshop-spring-boot-mongodb)
+- [JDBC (Java Database Connectivity)](https://github.com/Danilo-dps/java-database-connectivity)
 
 ### Interesses Pessoais
 
@@ -14,15 +18,13 @@
 - 🎮 Gosto de video games, xadrez e poker.
 - 🏡 Aprecio a tranquilidade que uma casa no interior pode oferecer.
 
+### Contato
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-pereira-862510259/) 
+[![Microsoft Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:danilodpsnilo@outlook.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danilodpsnilo@gmail.com)
 
-## Contato
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-pereira-862510259/) [![Microsoft Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](danilodpsnilo@outlook.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](danilodpsnilo@gmail.com)
-
-## Minhas estatísticas
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilo-dps)](https://github.com/danilo-dps/github-readme-stats)
+### Minhas Estatísticas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilo-dps)
 
 ## Tecnologias do meu dia a dia
 
