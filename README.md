@@ -9,7 +9,7 @@
 ### Projetos em Destaque
 - [Jogo de Xadrez](https://github.com/Danilo-dps/Sistema_Xadrez_java)
 - [Sistema de Gerenciamento de Post (API)](https://github.com/Danilo-dps/workshop-spring-boot-mongodb)
-- [Sistema de vendedores e departamentos](https://github.com/Danilo-dps/workshop-springboot-jpa)
+- [Sistema de vendedores e departamentos(API)](https://github.com/Danilo-dps/workshop-springboot-jpa)
 - [JDBC (Java Database Connectivity)](https://github.com/Danilo-dps/java-database-connectivity)
 
 ### Interesses Pessoais
