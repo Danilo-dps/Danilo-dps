@@ -1,6 +1,6 @@
 # Bem-vindo ao meu GitHub!
 
-## Olá! Eu sou o Danilo Pereira, aspirante a desenvolvedor de software.
+## Olá! Eu sou Danilo Pereira, aspirante a desenvolvedor de software.
 
 ### Sobre mim
 - Leonardo da Vinci foi alguém apaixonado pelo mundo, em entender as coisas, ele se dedicava a tudo que despertava o seu interesse, não tenho pretensão de me compararar a ele, e sim de me inspirar nesse sentimento de paixão em aprender
