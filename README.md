@@ -1,52 +1,54 @@
-# Bem-vindo ao meu GitHub!
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ffffff&width=500&lines=Bem+vindo+ao+meu+github!;Eu+sou+Danilo+Pereira+%E2%98%95%F0%9F%92%BB%F0%9F%8C%9F" alt="Typing SVG">
+  </a>
+</p>
 
-## Olá! Eu sou Danilo Pereira, aspirante a desenvolvedor de software.
+<div align="center">
+🔭 Sou estudante da área de tecnologia, com conhecimentos básicos em manutenção e configuração de computadores, sabendo configurar linux e windows, atualmente usando linux para estudar
 
-### Sobre mim
-- Leonardo da Vinci foi alguém apaixonado pelo mundo, em entender as coisas, ele se dedicava a tudo que despertava o seu interesse, não tenho pretensão de me compararar a ele, e sim de me inspirar nesse sentimento de paixão em aprender
-- Sou estudante da área de tecnologia, com conhecimentos básicos em manutenção e configuração de computadores, sabendo configurar linux e windows, atualmente usando linux para estudar.
-- Estou estudando para entender como usar de forma eficiente ferramentas de desenvolvimento de software.
 
-### Projetos em Destaque
-- [Jogo de Xadrez](https://github.com/Danilo-dps/Sistema_Xadrez_java)
-- [Sistema de Gerenciamento de Post (API)](https://github.com/Danilo-dps/workshop-spring-boot-mongodb)
-- [Sistema de vendedores e departamentos(API)](https://github.com/Danilo-dps/workshop-springboot-jpa)
-- [JDBC (Java Database Connectivity)](https://github.com/Danilo-dps/java-database-connectivity)
+🌱 Estou estudando para entender como usar de forma eficiente ferramentas de desenvolvimento de software
 
-### Interesses Pessoais
+💬  Leonardo da Vinci foi alguém apaixonado pelo mundo, em entender as coisas, ele se dedicava a tudo que despertava o seu interesse, não tenho pretensão de me compararar a ele, e sim de me inspirar nesse sentimento de paixão em aprender
 
-- 📚 Gosto de filosofia e psicologia.
-- 🎵 Curto quase todo tipo de música.
-- 🎮 Gosto de video games, xadrez e poker.
-- 🏡 Aprecio a tranquilidade que uma casa no interior pode oferecer.
+ 📚 Gosto de filosofia e psicologia
 
-### Contato
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-pereira-862510259/) 
-[![Microsoft Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:danilodpsnilo@outlook.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danilodpsnilo@gmail.com)
+ 🎵 Curto quase todo tipo de música
 
-### Minhas Estatísticas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilo-dps)
+ 🎮 Gosto de video games, xadrez e poker
 
-## Tecnologias do meu dia a dia
+ 🏡 Aprecio a tranquilidade que uma casa no interior pode oferecer.
 
-<div style="display: inline_block"><br/>
-  <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</div>
+
+<div align="center">
+  <a href="https://github.com/danilo-dps">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=danilo-dps&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilo-dps&layout=compact&langs_count=7&theme=dark"/>
+</div>
+    
+  <div style="display: inline_block" align="center"><br>
+  <a href="https://skillicons.dev">
+    <img align="center" src="https://skillicons.dev/icons?i=java,spring,py,c,cs,cpp,dotnet,eclipse,git,github,hibernate,linux,maven,mongodb,postman,vscode,docker,debian,vim" alt="Skills">
+  </a>
+  </div>
+
+  <p></p>
+  <div align="center"> 
+  <a href = "mailto:danilodpsnilo@outlook.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=hotmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/danilo-pereira-862510259/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="mailto:danilodpsnilo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+ 
+  </div>
+
+<div align="center">
+  Projetos em Destaques!
+</div>
+
+<div align="center">
+  <a href="https://github.com/Danilo-dps/Sistema_Xadrez_java">Jogo de Xadrez</a><br>
+  <a href="https://github.com/Danilo-dps/workshop-spring-boot-mongodb">Sistema de Gerenciamento de Post (API)</a><br>
+  <a href="https://github.com/Danilo-dps/workshop-springboot-jpa">Sistema de vendedores e departamentos (API)</a><br>
+  <a href="https://github.com/Danilo-dps/java-database-connectivity">JDBC (Java Database Connectivity)</a>
 </div>
