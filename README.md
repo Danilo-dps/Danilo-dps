@@ -7,6 +7,7 @@
 <div align="center">
 🔭 Sou estudante da área de tecnologia, com conhecimentos básicos em manutenção e configuração de computadores, sabendo configurar linux e windows, atualmente usando linux para estudar
 
+  Atualmente estudando Spring Boot, MongoDB, JPa, Swagger, Mock
 
 🌱 Estou estudando para entender como usar de forma eficiente ferramentas de desenvolvimento de software
 
@@ -48,6 +49,7 @@
 
 <div align="center">
   <a href="https://github.com/Danilo-dps/Sistema_Xadrez_java">Jogo de Xadrez</a><br>
+  <a href="https://github.com/Danilo-dps/dslist-backend">Sistema de Gerenciamento de jogos (API)</a><br>
   <a href="https://github.com/Danilo-dps/workshop-spring-boot-mongodb">Sistema de Gerenciamento de Post (API)</a><br>
   <a href="https://github.com/Danilo-dps/workshop-springboot-jpa">Sistema de vendedores e departamentos (API)</a><br>
   <a href="https://github.com/Danilo-dps/java-database-connectivity">JDBC (Java Database Connectivity)</a>
