@@ -7,7 +7,7 @@
 <div align="center">
 🔭 Sou estudante da área de tecnologia, com conhecimentos básicos em manutenção e configuração de computadores, sabendo configurar linux e windows, atualmente usando linux para estudar
 
-  Atualmente estudando Spring Boot, MongoDB, JPa, Swagger, Mock
+📚 Atualmente estudando Spring Boot, MySQL, Postgres, MongoDB, Docker, JPA, Swagger, Mock
 
 🌱 Estou estudando para entender como usar de forma eficiente ferramentas de desenvolvimento de software
 
