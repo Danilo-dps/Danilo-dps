@@ -5,11 +5,12 @@
 </p>
 
 <div align="center">
-🔭 Sou estudante da área de tecnologia, com conhecimentos básicos em manutenção e configuração de computadores, sabendo configurar linux e windows, atualmente usando linux para estudar
+
+🔭 Estudante da área de tecnologia, com conhecimentos básicos em manutenção e configuração de computadores, sabendo configurar linux e windows, usando linux para estudar
 
 📚 Atualmente estudando Spring Boot, MySQL, Postgres, MongoDB, Docker, JPA, Swagger, Mock
 
-🌱 Estou estudando para entender como usar de forma eficiente ferramentas de desenvolvimento de software
+🌱 Estudando para entender como usar de forma eficiente ferramentas de desenvolvimento de software
 
 💬  Leonardo da Vinci foi alguém apaixonado pelo mundo, em entender as coisas, ele se dedicava a tudo que despertava o seu interesse, não tenho pretensão de me compararar a ele, e sim de me inspirar nesse sentimento de paixão em aprender
 
