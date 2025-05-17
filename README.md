@@ -32,15 +32,15 @@
     
   <div style="display: inline_block" align="center"><br>
   <a href="https://skillicons.dev">
-    <img align="center" src="https://skillicons.dev/icons?i=java,spring,py,c,cs,cpp,dotnet,eclipse,git,github,hibernate,linux,maven,mongodb,postman,vscode,docker,debian,vim" alt="Skills">
+    <img align="center" src="https://skillicons.dev/icons?i=java,spring,c,cs,cpp,git,github,hibernate,linux,maven,mongodb,postman,docker,debian,vim" alt="Skills">
   </a>
   </div>
 
   <p></p>
   <div align="center"> 
-  <a href = "mailto:danilodpsnilo@outlook.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=hotmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/danilo-pereira-862510259/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  <a href="mailto:danilodpsnilo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+  <a href = "mailto:danilodpsnilo@outlook.com"><img src="https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a> 
+  <a href="mailto:danilodpsnilo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/danilo-pereira-862510259/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
  
   </div>
 
