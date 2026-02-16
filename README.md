@@ -8,11 +8,7 @@
 
 🔭 Estudante da área de tecnologia, com conhecimentos básicos em manutenção e configuração de computadores, sabendo configurar linux e windows, usando linux para estudar
 
-📚 Atualmente estudando Spring Boot, MySQL, Postgres, MongoDB, Docker, JPA, Swagger, Mock
-
 🌱 Estudando para entender como usar de forma eficiente ferramentas de desenvolvimento de software
-
-💬  Leonardo da Vinci foi alguém apaixonado pelo mundo, em entender as coisas, ele se dedicava a tudo que despertava o seu interesse, não tenho pretensão de me compararar a ele, e sim de me inspirar nesse sentimento de paixão em aprender
 
  📚 Gosto de filosofia e psicologia
 
@@ -21,18 +17,10 @@
  🎮 Gosto de video games, xadrez e poker
 
  🏡 Aprecio a tranquilidade que uma casa no interior pode oferecer.
-
-</div>
-
-<div align="center">
-  <a href="https://github.com/danilo-dps">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=danilo-dps&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilo-dps&layout=compact&langs_count=7&theme=dark"/>
-</div>
     
   <div style="display: inline_block" align="center"><br>
   <a href="https://skillicons.dev">
-    <img align="center" src="https://skillicons.dev/icons?i=java,spring,c,cs,cpp,git,github,hibernate,linux,maven,mongodb,postman,docker,debian,vim" alt="Skills">
+    <img align="center" src="https://skillicons.dev/icons?i=java,spring,c,cpp,git,github,linux,maven,postman,docker" alt="Skills">
   </a>
   </div>
 
