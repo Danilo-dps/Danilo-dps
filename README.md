@@ -12,7 +12,7 @@
 
 🎓 **Formação:** Graduando em Engenharia da Computação (Univesp), com base técnica sólida formada em Análise e Desenvolvimento de Sistemas (FATEC).<br>
 
-🌱 **Foco de estudos:** Ecossistema Java (Spring Boot), bancos relacionais e infraestrutura Cloud. Com interesse em mensageria assíncrona e no uso de IA como ferramenta para otimização e produtividade no desenvolvimento.<br>
+🌱 **Foco de estudos:** Ecossistema Java (Spring Boot), bancos de dados relacional e infraestrutura Cloud. Com interesse em mensageria assíncrona e no uso de IA como ferramenta para otimização e produtividade no desenvolvimento.<br>
 
 ☁️ **Infra & Cloud:** Certificado em **OCI Foundations Associate**, com uso constante de Docker e Linux (Arch/Ubuntu) para orquestração local.<br>
 
@@ -46,7 +46,7 @@
     <tr>
       <td width="50%">
         <b>💸 <a href="https://github.com/Danilo-dps/payments-service">Ecossistema de Pagamentos (API)</a></b><br>
-        Microsserviço principal construído com Java 21 e Spring Boot. Gerencia contas, autenticação (JWT) e processa depósitos e transferências, produzindo eventos assíncronos.
+        Microsserviço construído com Java 21 e Spring Boot. Gerencia contas, autenticação (JWT) e processa depósitos e transferências, produzindo eventos assíncronos.
       </td>
       <td width="50%">
         <b>📨 <a href="https://github.com/Danilo-dps/notification-service">Serviço de Notificações</a></b><br>
