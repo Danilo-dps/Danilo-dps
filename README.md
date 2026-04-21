@@ -10,7 +10,7 @@
   
 🔭 **Atualmente:** Desenvolvedor Back-End com experiência prática (CLT e estágio) focado no ecossistema Java e Spring Boot.<br>
 
-🎓 **Formação:** Graduando em Engenharia da Computação (Univesp), com base técnica sólida formada em Análise e Desenvolvimento de Sistemas (FATEC).<br>
+🎓 **Formação:** Graduando em Engenharia da Computação (Univesp), com base técnica formada em Análise e Desenvolvimento de Sistemas (FATEC).<br>
 
 🌱 **Foco de estudos:** Ecossistema Java (Spring Boot), bancos de dados relacional e infraestrutura Cloud. Com interesse em mensageria assíncrona e no uso de IA como ferramenta para otimização e produtividade no desenvolvimento.<br>
 
