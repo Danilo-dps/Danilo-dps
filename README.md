@@ -8,7 +8,7 @@
 
 <div align="center">
   
-🔭 **Atualmente:** Desenvolvedor Back-End com experiência prática (CLT e estágio) focado no ecossistema Java e Spring Boot.<br>
+🔭 **Atualmente:** Desenvolvedor Back-End com experiência prática (CLT e estágio) no ecossistema Java e Spring Boot.<br>
 
 🎓 **Formação:** Graduando em Engenharia da Computação (Univesp), com base técnica formada em Análise e Desenvolvimento de Sistemas (FATEC).<br>
 
