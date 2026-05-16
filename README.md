@@ -8,13 +8,13 @@
 
 <div align="center">
   
-🔭 **Atualmente:** Desenvolvedor Back-End com experiência prática (CLT e estágio) no ecossistema Java e Spring Boot.<br>
+🔭 **Atualmente:** Atuando no desenvolvimento de microsserviços com Java 17, Java 21 e Spring Boot, buscando evoluir minhas competências técnicas a cada dia.<br>
 
-🎓 **Formação:** Graduando em Engenharia da Computação (Univesp), com base técnica formada em Análise e Desenvolvimento de Sistemas (FATEC).<br>
+🎓 **Formação:** Graduando em Engenharia da Computação (Univesp), com base técnica em Análise e Desenvolvimento de Sistemas (FATEC) — onde construí meus fundamentos acadêmicos iniciais utilizando Java 11.<br>
 
-🌱 **Foco de estudos:** Ecossistema Java (Spring Boot), bancos de dados relacional e infraestrutura Cloud. Com interesse em mensageria assíncrona e no uso de IA como ferramenta para otimização e produtividade no desenvolvimento.<br>
+🌱 **Evolução Contínua:** Busco expandir meu conhecimento de forma gradual e consistente, com foco no ecossistema Java, modelagem de dados e conceitos de arquitetura. Tenho bastante interesse em mensageria assíncrona e no uso de IA para otimização de fluxos de trabalho.<br>
 
-☁️ **Infra & Cloud:** Certificado em **OCI Foundations Associate**, com uso constante de Docker e Linux (Arch/Ubuntu) para orquestração local.<br>
+☁️ **Infra & Cloud:** Certificado em **OCI Foundations Associate**, habituado ao uso de Docker e sistemas Linux (Arch/Ubuntu) para organização do ambiente de desenvolvimento local.<br>
 
 ⚡ **Fora do código:** Aprecio a tranquilidade do interior, gosto de filosofia, psicologia e me divirto com videogames, xadrez e poker.<br>
 
@@ -28,16 +28,6 @@
     <img src="https://skillicons.dev/icons?i=java,spring,nodejs,c,cpp,git,github,linux,ubuntu,docker,mysql,postgres,kafka,postman" alt="Skills">
   </a>
 </div>
-
-<br>
-
-<div align="center">
-  <h3>📊 Estatísticas do GitHub</h3>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Danilo-dps&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo-dps&layout=compact&langs_count=7&theme=radical"/>
-</div>
-
-<br>
 
 <div align="center">
   <h3>🏆 Projetos em Destaque</h3>
