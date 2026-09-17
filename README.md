@@ -36,11 +36,11 @@
     <tr>
       <td width="50%">
         <b>💸 <a href="https://github.com/Danilo-dps/payments-service">Ecossistema de Pagamentos (API)</a></b><br>
-        Microsserviço construído com Java 21 e Spring Boot. Gerencia contas, autenticação (JWT) e processa depósitos e transferências, produzindo eventos assíncronos.
+        Microsserviço construído com Java 25 e Spring Boot. Gerencia contas, autenticação (JWT) e processa depósitos e transferências, produzindo eventos assíncronos.
       </td>
       <td width="50%">
         <b>📨 <a href="https://github.com/Danilo-dps/notification-service">Serviço de Notificações</a></b><br>
-        Microsserviço consumidor construído com Java 21 que escuta tópicos do Apache Kafka (modo KRaft) e dispara notificações por e-mail via SMTP do Google.
+        Microsserviço consumidor construído com Java 25 que escuta tópicos do Apache Kafka (modo KRaft) e dispara notificações por e-mail via SMTP do Google.
       </td>
     </tr>
     <tr>
