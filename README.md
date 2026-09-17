@@ -12,7 +12,7 @@
 
 🎓 **Formação:** Graduando em Engenharia da Computação (Univesp), com base técnica em Análise e Desenvolvimento de Sistemas (FATEC) — onde construí meus fundamentos acadêmicos iniciais utilizando Java 8 e 11.<br>
 
-🌱 **Evolução Contínua:** Busco expandir meu conhecimento de forma gradual e consistente, com foco no ecossistema Java, modelagem de dados e conceitos de arquitetura. Tenho bastante interesse em mensageria assíncrona e no uso de IA para otimização de fluxos de trabalho.<br>
+🌱 **Evolução Contínua:** Busco expandir meu conhecimento de forma gradual e consistente, com foco no ecossistema Java, modelagem de dados e conceitos de arquitetura.<br>
 
 ☁️ **Infra & Cloud:** Certificado em **OCI Foundations Associate**, habituado ao uso de Docker e sistemas Linux (Arch/Ubuntu) para organização do ambiente de desenvolvimento local.<br>
 
